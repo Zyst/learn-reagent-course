@@ -2,6 +2,7 @@
 
  :dependencies [[binaryage/devtools "0.9.10"]
                 [proto-repl "0.3.1"]
+                [cider/cider-nrepl "0.24.0"]
                 [reagent "0.8.0"]]
 
  :nrepl        {:port 3333}
